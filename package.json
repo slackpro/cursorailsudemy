@@ -1,5 +1,18 @@
 {
   "name": "time_to_answer",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.10.2",
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "jquery.easing": "^1.4.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.14.7"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/slackpro/cursorailsudemy.git",
+  "author": "Erigleydson Omena <erigleydson.tj@gmail.com>",
+  "license": "MIT"
 }
