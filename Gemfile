@@ -36,6 +36,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'rails-i18n', '~> 5.1' # For 5.0.x, 5.1.x and 5.2.x
 gem 'tty-spinner'
+gem 'popper_js', '~>1.11', '>=1.11.1'
 
 
 # Reduces boot times through caching; required in config/boot.rb
